@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 https://potions.potions.dev/widgets/1gp5fNxBKNZf9LnALvVrRhZ1zag1/x3dj9zkfvu0zrj6447ojgvvoo
+
+![Image of Yaktocat](https://potions.potions.dev/widgets/1gp5fNxBKNZf9LnALvVrRhZ1zag1/x3dj9zkfvu0zrj6447ojgvvoo)
